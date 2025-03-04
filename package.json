@@ -14,16 +14,16 @@
 	},
 	"activationEvents": [],
 	"dependencies": {
-		"axios": "1.7.9",
+		"axios": "1.8.1",
 		"extract-zip": "2.0.1",
 		"rimraf": "6.0.1",
-		"uuid": "11.0.5"
+		"uuid": "11.1.0"
 	},
 	"devDependencies": {
 		"@types/glob": "8.1.0",
-		"@types/node": "22.13.4",
+		"@types/node": "22.13.9",
 		"@types/rimraf": "4.0.5",
-		"@types/unzipper": "0.10.10",
+		"@types/unzipper": "0.10.11",
 		"@types/uuid": "10.0.0",
 		"glob": "11.0.1",
 		"ts-loader": "9.5.2"
