@@ -43,7 +43,7 @@
 		"uuid": "11.1.0"
 	},
 	"devDependencies": {
-		"@playform/build": "0.2.2",
+		"@playform/build": "0.2.3",
 		"@types/glob": "8.1.0",
 		"@types/node": "22.14.0",
 		"@types/rimraf": "4.0.5",
