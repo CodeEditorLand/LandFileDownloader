@@ -37,7 +37,7 @@
 	},
 	"activationEvents": [],
 	"dependencies": {
-		"axios": "1.8.4",
+		"axios": "1.9.0",
 		"extract-zip": "2.0.1",
 		"rimraf": "6.0.1",
 		"uuid": "11.1.0"
@@ -45,7 +45,7 @@
 	"devDependencies": {
 		"@playform/build": "0.2.3",
 		"@types/glob": "8.1.0",
-		"@types/node": "22.14.1",
+		"@types/node": "22.15.2",
 		"@types/rimraf": "4.0.5",
 		"@types/unzipper": "0.10.11",
 		"@types/uuid": "10.0.0",
